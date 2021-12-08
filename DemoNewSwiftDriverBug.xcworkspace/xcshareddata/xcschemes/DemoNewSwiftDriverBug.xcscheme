@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1D0D100D2497AE01BC1B9B9C"
+               BlueprintIdentifier = "25C07E2EC0A521CA0526A863"
                BuildableName = "DemoNewSwiftDriverBug.app"
                BlueprintName = "DemoNewSwiftDriverBug"
                ReferencedContainer = "container:DemoNewSwiftDriverBug.xcodeproj">
@@ -28,19 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3561759CCC353C0FDA5FAC8A"
-               BuildableName = "DemoNewSwiftDriverBugTests.xctest"
-               BlueprintName = "DemoNewSwiftDriverBugTests"
-               ReferencedContainer = "container:DemoNewSwiftDriverBug.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -48,7 +36,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
@@ -57,14 +44,12 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1D0D100D2497AE01BC1B9B9C"
+            BlueprintIdentifier = "25C07E2EC0A521CA0526A863"
             BuildableName = "DemoNewSwiftDriverBug.app"
             BlueprintName = "DemoNewSwiftDriverBug"
             ReferencedContainer = "container:DemoNewSwiftDriverBug.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Debug"
@@ -72,6 +57,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "25C07E2EC0A521CA0526A863"
+            BuildableName = "DemoNewSwiftDriverBug.app"
+            BlueprintName = "DemoNewSwiftDriverBug"
+            ReferencedContainer = "container:DemoNewSwiftDriverBug.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
